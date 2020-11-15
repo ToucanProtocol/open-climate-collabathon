@@ -24,3 +24,4 @@
 - Tokens representing credits from the same project and the same vintage should be fungible so that it's possible to retire only a fraction of a tonne of carbon.
 - The token holder should be able to set a price per tonne of carbon at which the token can be sold and retired.
 - Tokens should be composable as to create higher-order products, e.g. have a project-level token
+– Tokens should be differentiable based on specific properties, e.g. issuing standard body, methodology, country, compliance with speicif markets (CORSIA, Article 6.4 Paris Agreement, ...), etc.
